@@ -1,4 +1,4 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=I%20Like%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=exercises+for+Programmer&fontAlign=50&fontAlignY=40&color=gradient)
 
 ### 🙇안녕하세요😄, AI Back-end Programmer로 성장해나가고 있는 서준영입니다!!!
 
