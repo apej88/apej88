@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 * Jupyter Notebook
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?&style=for-the-badge&logo=Jupyter%20Notebook&logoColor=white)
 * HTML5
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 * CSS
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 * JAVASCRIPT
@@ -48,3 +49,6 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=VSCode&logoColor=white)
 * Unity
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+
+### Top langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apej88&layout=compact)
