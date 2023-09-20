@@ -1,5 +1,6 @@
 ### 🙇안녕하세요😄, AI Back-end Programmer로 성장해나가고 있는 서준영입니다!!!
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapej88&count_bg=%23B7F28A&title_bg=%239E9E9E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **apej88/apej88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
